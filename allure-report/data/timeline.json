@@ -1,0 +1,30 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-R3GIJUF",
+    "children" : [ {
+      "name" : "12912@DESKTOP-R3GIJUF.main(1)",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "6768c7ade5acd123",
+        "parentUid" : "cdad5e17e3611b11f3d7b72860a243de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1644607942028,
+          "stop" : 1644607945196,
+          "duration" : 3168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cdad5e17e3611b11f3d7b72860a243de"
+    } ],
+    "uid" : "ddbd2e7fe52b265dfc4d18458fee09cd"
+  } ]
+}

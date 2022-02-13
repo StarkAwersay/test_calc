@@ -1,0 +1,26 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.TestCalculator",
+    "children" : [ {
+      "name" : "Test1",
+      "uid" : "6768c7ade5acd123",
+      "parentUid" : "b9f94600ea3681711e5170b2fccccad7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644607942028,
+        "stop" : 1644607945196,
+        "duration" : 3168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.TestCalculator"
+  } ]
+}
